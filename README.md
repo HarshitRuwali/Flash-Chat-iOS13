@@ -1,3 +1,5 @@
+To use the application, firstly set up the Google Firebase. And then install the cocoapods dependensies and make sure to replace the original one.
+
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Flash-Chat
